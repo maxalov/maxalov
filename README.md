@@ -10,7 +10,7 @@ Lately, I've been diving into the world of Python automation and navigating the 
 **🌱 My tasks for the near future:**
 <!-- TODO-IST:START -->
 * [x] Level up my git skills <code><img height="20" src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/abc7fd264f36c6a1e3fc16e1cd5e94735ec671d8/public/icons/git/git.svg"></code>
-* [x] Tame the beast called openstack <code><img height="20" src="https://opendev.org/avatars/openstack?size=280"></code> 
+* [ ] Tame the beast called openstack <code><img height="20" src="https://opendev.org/avatars/openstack?size=280"></code> 
 <!-- TODO-IST:END -->
 
 <br />
